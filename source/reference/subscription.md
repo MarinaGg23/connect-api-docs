@@ -84,6 +84,7 @@ curl -X PATCH \
    }'
 ```
 
+
 ## Subscription activation
 
 - Allowed roles: `ACCOUNT_MANAGER`
